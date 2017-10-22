@@ -1,0 +1,11 @@
+{
+    "products": [
+        {
+            "categories": [
+                "Test_category"
+            ],
+            "twitter": "@test",
+            "title": "test"
+        }
+    ]
+}
